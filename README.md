@@ -1,6 +1,6 @@
 # 2600-Article-Search
 
-Simple Perl CGI to search (grep) for text string within issues of _2600 Magazine_.
+Simple Perl CGI to search (grep) for text string within issues of [2600 Magazine](http://www.2600.com).
 
 Includes OCR'd text data for most articles/issues.
 
