@@ -6,7 +6,7 @@ Includes OCR'd text data for most articles/issues.
 
 Requires aha (https://github.com/theZiz/aha) for converting ANSI color codes into HTML
 
-(Install: sudo apt install aha)
+     $ sudo apt install aha
 
 Try it out!
 http://gbppr.ddns.net/2600.main.cgi
