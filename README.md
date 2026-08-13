@@ -4,7 +4,7 @@ Simple Perl CGI to search (grep) for text strings within issues of [_2600 Magazi
 
 Includes OCR'd text data for most articles/issues. This is still kinda experimental and may give weird results if the OCR didn't turn out right.
 
-Now includes a search of text transcripts of [*Off The Hook*](http://www.2600.com/offthehook) made using [WhisperAI](http://www.whisperai.com).
+Now includes a search of text transcripts of [*Off The Hook*](http://www.gbppr.net/2600/oth) made using [WhisperAI](http://www.whisperai.com).
 
 Requires aha (https://github.com/theZiz/aha) for converting ANSI color codes into HTML.
 
